@@ -1,8 +1,9 @@
 # 🧠 Proyecto Colaborativo — Dead Frequency
 
-**Dead Frequency** es un proyecto desarrollado durante la **Tecnicatura en Desarrollo y Producción de Videojuegos (UTN Buenos Aires)**, en el cual participé brindando **asistencia técnica y de diseño** al equipo principal.
+**Dead Frequency** es un **prototipo experimental** desarrollado durante la **Tecnicatura en Desarrollo y Producción de Videojuegos (UTN Buenos Aires)**.  
+El proyecto surgió como una **idea académica** orientada a experimentar con sistemas de cámara y puzzles interactivos dentro de un entorno de suspenso y tecnología.
 
-Mi contribución se centró en la **implementación de puzzles interactivos**, la **optimización de memoria** y la **integración de un sistema de cámaras inspirado en Resident Evil 3**, logrando una experiencia más fluida y coherente a nivel técnico.
+Mi participación se centró en brindar **asistencia técnica y de diseño**, implementando **puzzles tipo “hackeo”**, un **sistema de cámaras fijas al estilo Resident Evil 3**, y **optimizaciones de memoria** para mejorar el rendimiento general del prototipo.
 
 ---
 
