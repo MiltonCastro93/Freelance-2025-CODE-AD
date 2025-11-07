@@ -18,7 +18,7 @@ Entre las principales tareas:
 - **Depuración y revisión de lógica externa**, asegurando compatibilidad entre módulos del proyecto.
 
 <div align="center">
-  <img src="https://github.com/MiltonCastro93/Dead-Frequency/blob/main/images.jpg" width="350" alt="Puzzle tipo Snake - Dead Frequency"/>
+  <img src="https://github.com/MiltonCastro93/Freelance-2025-CODE-AD/blob/main/images.jpg" width="350" alt="Puzzle tipo Snake - Dead Frequency"/>
 </div>
 
 ---
