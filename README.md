@@ -1,5 +1,9 @@
 # 🧠 Proyecto Colaborativo — Dead Frequency
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiltonCastro93.Freelance-2025-CODE-AD" alt="Visitas"/>
+</p>
+
 **Dead Frequency** es un **prototipo experimental** desarrollado durante la **Tecnicatura en Desarrollo y Producción de Videojuegos (UTN Buenos Aires)**.  
 El proyecto surgió como una **idea académica** orientada a experimentar con sistemas de cámara y puzzles interactivos dentro de un entorno de suspenso y tecnología.
 
